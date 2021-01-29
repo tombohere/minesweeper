@@ -41,7 +41,7 @@ const Board = ({ rows, cols }) => {
           <GameMessage>
             YOU
             <br />
-            WIN !
+            WIN
           </GameMessage>
         )}
       </div>
